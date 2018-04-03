@@ -1,5 +1,13 @@
-.ipynb_checkpoints/*
+﻿.ipynb_checkpoints/*
+
 data/*
+
+log/*
 submitions/*
-submit.csv
-Примечания.docx
+
+*.csv
+
+*.docx
+301_regression.py
+302_classification.py
+*.pkl
